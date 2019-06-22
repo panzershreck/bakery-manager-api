@@ -1,6 +1,5 @@
 import { NestFactory } from '@nestjs/core';
 import { ValidationPipe } from '@nestjs/common';
-// import 'module-alias/register';
 
 import { AppModule } from './app.module';
 
